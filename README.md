@@ -74,7 +74,7 @@ Responsible for the architecture, development, and security of complex backend s
 
 ### Certifications
 
-- **[10xdevs](https://www.10xdevs.pl/)** | **Awarded with distinction** | _Proven ability to build AI-First Full-Stack MVPs using state-of-the-art tools and AI-Assisted Workflows. Widely regarded as one of the top AI development courses in Poland._
+- **[10xdevs](https://www.10xdevs.pl/)** | **Awarded with distinction for Best Project** | _Proven ability to build AI-First Full-Stack MVPs using state-of-the-art tools and AI-Assisted Workflows. Widely regarded as one of the top AI development courses in Poland. [View Certificate](https://credsverse.com/credentials/f54d68d5-389c-4985-adb3-4275a60487b0)_
 - **[AIDevs](https://www.aidevs.pl/)** (In Progress) | _Interacting with LLM's API, Multimodality in Practice, Building Agents, AI Integration and Interfaces. Recognized as a leading course for AI developers in Poland._
 - **[Web Application Security](https://niebezpiecznik.pl/szkolenia/atakowanie-ochrona-www/)** | _Attacking and Protecting Web Applications from Niebezpiecznik.pl, the most prestigious web security training in Poland._
 - **Advanced Programming of Mobile Devices** | _Motorola Solutions_
