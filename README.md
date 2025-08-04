@@ -10,7 +10,7 @@ Senior Python Developer
 
 ### Summary
 
-A results-driven Python Developer with over 6 years of experience, specializing in building secure, microservice-based RESTful APIs and innovative **AI-powered solutions**. Proven expertise in **leveraging AI for development**, including state-of-the-art tools and **AI-assisted workflows** to build **AI-First Full-Stack MVPs**. Deep knowledge of application security, including custom OAuth2.0 implementations and penetration testing. An effective mentor and proactive problem-solver, dedicated to building scalable, secure, and intelligent software.
+A results-driven Python Developer with over 7 years of experience, specializing in building secure, microservice-based RESTful APIs and innovative **AI-powered solutions**. Proven expertise in **leveraging AI for development**, including state-of-the-art tools and **AI-assisted workflows** to build **AI-First Full-Stack MVPs**. Deep knowledge of application security, including custom OAuth2.0 implementations and penetration testing. An effective mentor and proactive problem-solver, dedicated to building scalable, secure, and intelligent software.
 
 ---
 
