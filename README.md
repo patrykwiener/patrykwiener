@@ -1,8 +1,9 @@
 # Patryk Wiener
-Senior Python Developer
+
+Python Developer
 ---
 
-- **Email:** patrykwiener@gmail.com
+- **Email:** <patrykwiener@gmail.com>
 - **Phone:** +48 664 747 369
 - **LinkedIn:** [linkedin.com/in/patryk-wiener-439074182](https://www.linkedin.com/in/patryk-wiener-439074182/)
 
@@ -10,7 +11,7 @@ Senior Python Developer
 
 ### Summary
 
-A results-driven Python Developer with over 7 years of experience, specializing in building secure, microservice-based RESTful APIs and innovative **AI-powered solutions**. Proven expertise in **leveraging AI for development**, including state-of-the-art tools and **AI-assisted workflows** to build **AI-First Full-Stack MVPs**. Deep knowledge of application security, including custom OAuth2.0 implementations and penetration testing. An effective mentor and proactive problem-solver, dedicated to building scalable, secure, and intelligent software.
+A results-driven Python Developer with over 7 years of experience, specializing in building secure, microservice-based RESTful APIs and innovative AI-powered solutions. Proven expertise in leveraging AI for development, including state-of-the-art tools and AI-assisted workflows to build AI Full-Stack MVPs. Deep knowledge of application security, including custom OAuth2.0 implementations and penetration testing. An effective mentor and proactive problem-solver, dedicated to building scalable, secure, and intelligent software
 
 ---
 
@@ -30,8 +31,10 @@ A results-driven Python Developer with over 7 years of experience, specializing 
 ### Portfolio
 
 **Vibe-Travel - AI-Powered Travel Planner**
+
 - VibeTravels is an innovative MVP application designed to transform simple travel notes into detailed trip plans using AI technology.
 - **GitHub Repository:** [github.com/patrykwiener/vibe-travel](https://github.com/patrykwiener/vibe-travel)
+- **Tech Stack:** Python, FastAPI, PostgreSQL, Docker, Vue.js, AI Agents
 
 ---
 
@@ -42,27 +45,35 @@ A results-driven Python Developer with over 7 years of experience, specializing 
 Responsible for the architecture, development, and security of complex backend systems in a microservices environment.
 
 **Current Project: Toyota TMS - Automotive Sales & Marketing Platform**
+
 - Developing key backend and frontend features for a large-scale sales and distribution system for the Eastern European market.
 - Contributing to a robust microservice architecture, improving modularity and maintainability.
+- **Tech Stack:** Python, Flask, MySQL, PostgreSQL, Docker, Vue.js, Microservices
 
 **Past Project: ETL Banking System** (_Ended: Feb 2025_)
+
 - Architected and developed a high-performance ETL system for the banking sector, utilizing a choreography-based SAGA pattern to ensure data consistency and system resilience.
 - Engineered scalable microservices that significantly improved data processing efficiency and throughput.
+- **Tech Stack:** Python, Django, Django REST Framework, PostgreSQL, Celery, RabbitMQ, Docker, Microservices
 
 **Past Project: IDZ - Zero-Knowledge Data Security Platform**
+
 - Led the design and implementation of a bespoke OAuth2.0 server, enhancing system security and user trust.
 - Pioneered a novel passwordless authentication grant type for OAuth2.0, which streamlined the user experience without compromising security.
 - Conducted comprehensive security audits and penetration tests to identify and mitigate vulnerabilities, ensuring a zero-knowledge architecture.
+- **Tech Stack:** Python, Django, Django REST Framework, FastAPI, PostgreSQL, Redis, RabbitMQ, OAuth2.0, AWS, Docker, Microservices
 
 ### **Python Trainer** | **Software Development Academy** | (_Apr 2020 - Jun 2022_)
 
 - As one of the key trainers in the company, delivered comprehensive training on Python, covering fundamental concepts to advanced backend development with Django.
 - Mentored aspiring developers, guiding them through final projects and instilling best practices in TDD, Design Patterns, and algorithm design.
+- **Technologies Taught:** Python, Django, Django REST Framework, REST APIs, Databases, TDD, SOLID, Design Patterns, UML
 
 ### **Python Django Developer** | **Bombardier** | (_Nov 2020 - Jan 2021_)
 
 - Developed and designed a microservice-based internal system for validating railway projects.
 - Implemented concurrent programming solutions to handle high-load messaging and data processing.
+- **Tech Stack:** Python, Django, Django REST Framework, PostgreSQL, RabbitMQ, Docker, Microservices
 
 ### **Python Software Engineer Intern** | **Rockwell Automation** | (_Aug 2018 - Oct 2020_)
 
